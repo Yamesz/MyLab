@@ -11,7 +11,8 @@ namespace MyConsole
     {
         static void Main(string[] args)
         {
-
+            var section = (Hashtable)ConfigurationManager.GetSection("PowershellSnapIns");
+            var a = (string)section["SnapIn1"];
         }
     }
 }

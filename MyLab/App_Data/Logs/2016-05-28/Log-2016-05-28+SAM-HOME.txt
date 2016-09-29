@@ -1,0 +1,422 @@
+
+=================================================
+2016-05-28 16:08:27.5091 | INFO | TID:6 | 
+
+Controller: 
+Home
+Action: 
+Get
+Request: 
+Method: GET, RequestUri: 'http://localhost:6928/api/home/1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: max-age=0
+  Connection: keep-alive
+  Accept: text/html
+  Accept: application/xhtml+xml
+  Accept: application/xml; q=0.9
+  Accept: image/webp
+  Accept: */*; q=0.8
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Accept-Encoding: sdch
+  Accept-Language: zh-TW
+  Accept-Language: zh; q=0.8
+  Accept-Language: en-US; q=0.6
+  Accept-Language: en; q=0.4
+  Cookie: _ga=GA1.1.1695676096.1438516992
+  Host: localhost:6928
+  User-Agent: Mozilla/5.0
+  User-Agent: (Windows NT 6.3; Win64; x64)
+  User-Agent: AppleWebKit/537.36
+  User-Agent: (KHTML, like Gecko)
+  User-Agent: Chrome/50.0.2661.102
+  User-Agent: Safari/537.36
+  Upgrade-Insecure-Requests: 1
+  Process-Start-Time: 2016-05-28 16:08:27.247
+  Process--End--Time: 2016-05-28 16:08:27.322
+  Process-Time-Elapsed: Ticks: 243118, 75 ms
+  Content-Length: 0
+}
+Request Content: 
+
+Request Body: 
+{8572540D-3BD9-46DA-B112-A1E6C9086003}: System.Web.Http.ValueProviders.Providers.QueryStringValueProvider
+{C0E50671-A1D4-429E-93C9-2AA63779924F}: System.Web.Http.ValueProviders.Providers.RouteDataValueProvider
+-------------------------------------------------
+-------------------------------------------------
+Client IP: 
+[127.0.0.1]
+QueryString: 
+http://localhost:6928/api/home/1
+QueryStringNameValue: 
+[]
+-------------------------------------------------
+Response: 
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[<>f__AnonymousType2`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], MyLab, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Headers:
+{
+  Content-Type: application/json; charset=utf-8
+}
+Response Content: 
+{"code":200,"id":1}
+================================================= 
+
+
+=================================================
+2016-05-28 21:16:38.8516 | INFO | TID:6 | 
+
+Controller: 
+Home
+Action: 
+Get
+Request: 
+Method: GET, RequestUri: 'http://localhost:6928/api/home/1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Connection: keep-alive
+  Accept: text/html
+  Accept: application/xhtml+xml
+  Accept: application/xml; q=0.9
+  Accept: image/webp
+  Accept: */*; q=0.8
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Accept-Encoding: sdch
+  Accept-Language: zh-TW
+  Accept-Language: zh; q=0.8
+  Accept-Language: en-US; q=0.6
+  Accept-Language: en; q=0.4
+  Cookie: _ga=GA1.1.1695676096.1438516992
+  Host: localhost:6928
+  User-Agent: Mozilla/5.0
+  User-Agent: (Windows NT 6.3; Win64; x64)
+  User-Agent: AppleWebKit/537.36
+  User-Agent: (KHTML, like Gecko)
+  User-Agent: Chrome/50.0.2661.102
+  User-Agent: Safari/537.36
+  Upgrade-Insecure-Requests: 1
+  Process-Start-Time: 2016-05-28 21:16:38.586
+  Process--End--Time: 2016-05-28 21:16:38.664
+  Process-Time-Elapsed: Ticks: 251591, 78 ms
+  Content-Length: 0
+}
+Request Content: 
+
+Request Body: 
+{8572540D-3BD9-46DA-B112-A1E6C9086003}: System.Web.Http.ValueProviders.Providers.QueryStringValueProvider
+{C0E50671-A1D4-429E-93C9-2AA63779924F}: System.Web.Http.ValueProviders.Providers.RouteDataValueProvider
+-------------------------------------------------
+-------------------------------------------------
+Client IP: 
+[127.0.0.1]
+QueryString: 
+http://localhost:6928/api/home/1
+QueryStringNameValue: 
+[]
+-------------------------------------------------
+Response: 
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[<>f__AnonymousType2`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], MyLab, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Headers:
+{
+  Content-Type: application/json; charset=utf-8
+}
+Response Content: 
+{"code":200,"id":1}
+================================================= 
+
+
+=================================================
+2016-05-28 21:16:55.2533 | INFO | TID:13 | 
+
+Controller: 
+Home
+Action: 
+Get
+Request: 
+Method: GET, RequestUri: 'http://localhost:6928/api/home/4', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Connection: keep-alive
+  Accept: text/html
+  Accept: application/xhtml+xml
+  Accept: application/xml; q=0.9
+  Accept: image/webp
+  Accept: */*; q=0.8
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Accept-Encoding: sdch
+  Accept-Language: zh-TW
+  Accept-Language: zh; q=0.8
+  Accept-Language: en-US; q=0.6
+  Accept-Language: en; q=0.4
+  Cookie: _ga=GA1.1.1695676096.1438516992
+  Host: localhost:6928
+  User-Agent: Mozilla/5.0
+  User-Agent: (Windows NT 6.3; Win64; x64)
+  User-Agent: AppleWebKit/537.36
+  User-Agent: (KHTML, like Gecko)
+  User-Agent: Chrome/50.0.2661.102
+  User-Agent: Safari/537.36
+  Upgrade-Insecure-Requests: 1
+  Process-Start-Time: 2016-05-28 21:16:42.418
+  Process--End--Time: 2016-05-28 21:16:55.249
+  Process-Time-Elapsed: Ticks: 41349426, 12830 ms
+  Content-Length: 0
+}
+Request Content: 
+
+Request Body: 
+{8572540D-3BD9-46DA-B112-A1E6C9086003}: System.Web.Http.ValueProviders.Providers.QueryStringValueProvider
+{C0E50671-A1D4-429E-93C9-2AA63779924F}: System.Web.Http.ValueProviders.Providers.RouteDataValueProvider
+-------------------------------------------------
+-------------------------------------------------
+Client IP: 
+[127.0.0.1]
+QueryString: 
+http://localhost:6928/api/home/4
+QueryStringNameValue: 
+[]
+-------------------------------------------------
+Response: 
+StatusCode: 500, ReasonPhrase: 'Internal Server Error', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[System.Web.Http.HttpError, System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]], Headers:
+{
+  Content-Type: application/xml; charset=utf-8
+}
+Response Content: 
+<Error><Message>發生錯誤。</Message><ExceptionMessage>嘗試以零除。</ExceptionMessage><ExceptionType>System.DivideByZeroException</ExceptionType><StackTrace>   於 MyLab.Controllers.HomeController.Get(Int32 id) 於 K:\40.BlogCode\MyLab\MyLab\Controllers\HomeController.cs: 行 18
+   於 lambda_method(Closure , Object , Object[] )
+   於 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.&lt;&gt;c__DisplayClass10.&lt;GetExecutor&gt;b__9(Object instance, Object[] methodParameters)
+   於 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   於 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   於 System.Web.Http.Controllers.ApiControllerActionInvoker.&lt;InvokeActionAsyncCore&gt;d__0.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   於 System.Web.Http.Controllers.ActionFilterResult.&lt;ExecuteAsync&gt;d__2.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   於 System.Web.Http.Controllers.ExceptionFilterResult.&lt;ExecuteAsync&gt;d__0.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   於 System.Web.Http.Controllers.ExceptionFilterResult.&lt;ExecuteAsync&gt;d__0.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   於 System.Web.Http.Dispatcher.HttpControllerDispatcher.&lt;SendAsync&gt;d__1.MoveNext()</StackTrace></Error>
+================================================= 
+
+
+=================================================
+2016-05-28 22:23:11.1203 | INFO | TID:6 | 
+
+Controller: 
+Home
+Action: 
+Get
+Request: 
+Method: GET, RequestUri: 'http://localhost:6928/api/home/4', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: max-age=0
+  Connection: keep-alive
+  Accept: text/html
+  Accept: application/xhtml+xml
+  Accept: application/xml; q=0.9
+  Accept: image/webp
+  Accept: */*; q=0.8
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Accept-Encoding: sdch
+  Accept-Language: zh-TW
+  Accept-Language: zh; q=0.8
+  Accept-Language: en-US; q=0.6
+  Accept-Language: en; q=0.4
+  Cookie: _ga=GA1.1.1695676096.1438516992
+  Host: localhost:6928
+  User-Agent: Mozilla/5.0
+  User-Agent: (Windows NT 6.3; Win64; x64)
+  User-Agent: AppleWebKit/537.36
+  User-Agent: (KHTML, like Gecko)
+  User-Agent: Chrome/50.0.2661.102
+  User-Agent: Safari/537.36
+  Upgrade-Insecure-Requests: 1
+  Process-Start-Time: 2016-05-28 22:23:01.146
+  Process--End--Time: 2016-05-28 22:23:11.021
+  Process-Time-Elapsed: Ticks: 31820705, 9873 ms
+  Content-Length: 0
+}
+Request Content: 
+
+Request Body: 
+{8572540D-3BD9-46DA-B112-A1E6C9086003}: System.Web.Http.ValueProviders.Providers.QueryStringValueProvider
+{C0E50671-A1D4-429E-93C9-2AA63779924F}: System.Web.Http.ValueProviders.Providers.RouteDataValueProvider
+-------------------------------------------------
+-------------------------------------------------
+Client IP: 
+[127.0.0.1]
+QueryString: 
+http://localhost:6928/api/home/4
+QueryStringNameValue: 
+[]
+-------------------------------------------------
+Response: 
+StatusCode: 500, ReasonPhrase: 'Internal Server Error', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[System.Web.Http.HttpError, System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]], Headers:
+{
+  Content-Type: application/xml; charset=utf-8
+}
+Response Content: 
+<Error><Message>發生錯誤。</Message><ExceptionMessage>嘗試以零除。</ExceptionMessage><ExceptionType>System.DivideByZeroException</ExceptionType><StackTrace>   於 MyLab.Controllers.HomeController.Get(Int32 id) 於 K:\40.BlogCode\MyLab\MyLab\Controllers\HomeController.cs: 行 18
+   於 lambda_method(Closure , Object , Object[] )
+   於 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.&lt;&gt;c__DisplayClass10.&lt;GetExecutor&gt;b__9(Object instance, Object[] methodParameters)
+   於 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   於 System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   於 System.Web.Http.Controllers.ApiControllerActionInvoker.&lt;InvokeActionAsyncCore&gt;d__0.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   於 System.Web.Http.Controllers.ActionFilterResult.&lt;ExecuteAsync&gt;d__2.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   於 System.Web.Http.Controllers.ExceptionFilterResult.&lt;ExecuteAsync&gt;d__0.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   於 System.Web.Http.Controllers.ExceptionFilterResult.&lt;ExecuteAsync&gt;d__0.MoveNext()
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   於 System.Web.Http.Dispatcher.HttpControllerDispatcher.&lt;SendAsync&gt;d__1.MoveNext()</StackTrace></Error>
+================================================= 
+
+
+=================================================
+2016-05-28 22:23:52.5140 | INFO | TID:15 | 
+
+Controller: 
+Home
+Action: 
+Get
+Request: 
+Method: GET, RequestUri: 'http://localhost:6928/api/home/5', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Connection: keep-alive
+  Accept: text/html
+  Accept: application/xhtml+xml
+  Accept: application/xml; q=0.9
+  Accept: image/webp
+  Accept: */*; q=0.8
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Accept-Encoding: sdch
+  Accept-Language: zh-TW
+  Accept-Language: zh; q=0.8
+  Accept-Language: en-US; q=0.6
+  Accept-Language: en; q=0.4
+  Cookie: _ga=GA1.1.1695676096.1438516992
+  Host: localhost:6928
+  User-Agent: Mozilla/5.0
+  User-Agent: (Windows NT 6.3; Win64; x64)
+  User-Agent: AppleWebKit/537.36
+  User-Agent: (KHTML, like Gecko)
+  User-Agent: Chrome/50.0.2661.102
+  User-Agent: Safari/537.36
+  Upgrade-Insecure-Requests: 1
+  Process-Start-Time: 2016-05-28 22:23:52.418
+  Process--End--Time: 2016-05-28 22:23:52.428
+  Process-Time-Elapsed: Ticks: 32535, 10 ms
+  Content-Length: 0
+}
+Request Content: 
+
+Request Body: 
+{8572540D-3BD9-46DA-B112-A1E6C9086003}: System.Web.Http.ValueProviders.Providers.QueryStringValueProvider
+{C0E50671-A1D4-429E-93C9-2AA63779924F}: System.Web.Http.ValueProviders.Providers.RouteDataValueProvider
+-------------------------------------------------
+-------------------------------------------------
+Client IP: 
+[127.0.0.1]
+QueryString: 
+http://localhost:6928/api/home/5
+QueryStringNameValue: 
+[]
+-------------------------------------------------
+Response: 
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[<>f__AnonymousType2`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], MyLab, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Headers:
+{
+  Content-Type: application/json; charset=utf-8
+}
+Response Content: 
+{"code":200,"id":5}
+================================================= 
+
+
+=================================================
+2016-05-28 22:25:48.0870 | INFO | TID:17 | 
+
+Controller: 
+Home
+Action: 
+Get
+Request: 
+Method: GET, RequestUri: 'http://localhost:6928/api/home/6?name=aaa&code=bbb', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Connection: keep-alive
+  Accept: text/html
+  Accept: application/xhtml+xml
+  Accept: application/xml; q=0.9
+  Accept: image/webp
+  Accept: */*; q=0.8
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Accept-Encoding: sdch
+  Accept-Language: zh-TW
+  Accept-Language: zh; q=0.8
+  Accept-Language: en-US; q=0.6
+  Accept-Language: en; q=0.4
+  Cookie: _ga=GA1.1.1695676096.1438516992
+  Host: localhost:6928
+  User-Agent: Mozilla/5.0
+  User-Agent: (Windows NT 6.3; Win64; x64)
+  User-Agent: AppleWebKit/537.36
+  User-Agent: (KHTML, like Gecko)
+  User-Agent: Chrome/50.0.2661.102
+  User-Agent: Safari/537.36
+  Upgrade-Insecure-Requests: 1
+  Process-Start-Time: 2016-05-28 22:25:48.084
+  Process--End--Time: 2016-05-28 22:25:48.086
+  Process-Time-Elapsed: Ticks: 6944, 2 ms
+  Content-Length: 0
+}
+Request Content: 
+
+Request Body: 
+{8572540D-3BD9-46DA-B112-A1E6C9086003}: System.Web.Http.ValueProviders.Providers.QueryStringValueProvider
+{C0E50671-A1D4-429E-93C9-2AA63779924F}: System.Web.Http.ValueProviders.Providers.RouteDataValueProvider
+-------------------------------------------------
+-------------------------------------------------
+Client IP: 
+[127.0.0.1]
+QueryString: 
+?name=aaa&code=bbb
+QueryStringNameValue: 
+[{name:aaa},{code:bbb}]
+-------------------------------------------------
+Response: 
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[<>f__AnonymousType2`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], MyLab, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Headers:
+{
+  Content-Type: application/json; charset=utf-8
+}
+Response Content: 
+{"code":200,"id":6}
+================================================= 
+
